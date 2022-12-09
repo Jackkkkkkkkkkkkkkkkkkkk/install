@@ -28,7 +28,7 @@
 				<key>TargetApplicationBundleIdentifier</key>
 				<string>com.apple.mobilesafari</string>
 				<key>URL</key>
-				<string>http://jackkspace.epizy.com/</string>
+				<string>http://jackkspace.epizy.com/app/app.html</string>
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
