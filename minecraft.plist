@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>items</key>
-        <array>
-            <dict>
-                <key>assets</key>
-                <array>
-                    <dict>
-                        <key>kind</key>
-                        <string>software-package</string>
-                        <key>url</key>
-                        <string>https://tweakhome.app/Apps/signed/Minecraft.ipa</string>
-                    </dict>
-                    <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>https://k.top4top.io/p_2480hkarc1.jpg</string>
-                    </dict>
-                </array>
-                <key>metadata</key>
-                <dict>
-                    <key>bundle-identifier</key>
-                    <string>app.tweakhome.Minecraft</string>
-                    <key>bundle-version</key>
-                    <string>1</string>
-                    <key>kind</key>
-                    <string>software</string>
-                    <key>title</key>
-                    <string>Minecraft</string>
-                </dict>
-            </dict>
-        </array>
-    </dict>
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://ipa.ipasign.cc:2052/sign/20221211122541890/ed491aef-00ff-58fb-5fd6-a72fd280aa7b/resign_20221211122541890.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://j.top4top.io/p_2534lef0g1.jpg</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>Minecraft</string>
+<key>bundle-version</key>
+<string>1.19.41</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Minecraft</string>
+</dict>
+</dict>
+</array>
+</dict>
 </plist>
