@@ -12,7 +12,7 @@
 				<key>IgnoreManifestScope</key>
 				<true />
 				<key>Label</key>
-				<string>Jackk Store</string>
+				<string>RCS STORE</string>
 				<key>PayloadDisplayName</key>
 				<string>Web Clip #1</string>
 				<key>PayloadIdentifier</key>
@@ -28,17 +28,17 @@
 				<key>TargetApplicationBundleIdentifier</key>
 				<string>com.apple.mobilesafari</string>
 				<key>URL</key>
-				<string>http://jackkspace.epizy.com/app/app.html</string>
+				<string>https://zazam.stevenblade.repl.co/</string>
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>Jackk Store</string>
+		<string>RCS STORE</string>
 		<key>PayloadDisplayName</key>
-		<string>Jackk Store</string>
+		<string>RCS STORE</string>
 		<key>PayloadIdentifier</key>
 		<string>MSI.a9a15109-319a-4a18-a0ad-69d1a2f07713</string>
 		<key>PayloadOrganization</key>
-		<string>Jackk Store</string>
+		<string>RCS STORE</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
